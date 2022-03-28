@@ -1,0 +1,23 @@
+{
+  "name": "hostinglandingpage",
+  "version": "1.0.0",
+  "description": "Single Landing Page for fake/mockup cloud hosting company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abram-stack/CloudHostingLandingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abram-stack/CloudHostingLandingPage/issues"
+  },
+  "homepage": "https://github.com/abram-stack/CloudHostingLandingPage#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
